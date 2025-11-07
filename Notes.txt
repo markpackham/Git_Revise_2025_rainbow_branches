@@ -1,0 +1,4 @@
+Revising Git usage based on work written in 
+"Learning Git: A Hands-On and Visual Guide to the Basics of Git Kindle Edition
+by Anna Skoulikari"
+https://www.amazon.co.uk/Learning-Git-Anna-Skoulikari-ebook/dp/B0C768PDQ3
